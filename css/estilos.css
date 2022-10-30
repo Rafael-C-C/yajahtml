@@ -17,7 +17,7 @@ body {
 }
 
 .titulo {
-    color: #068671;
+    color: #35ca80;
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
@@ -105,7 +105,7 @@ main .sobre-nosotros{
 }
 
 .contenido-textos h3 span{
-    background: #068671;
+    background: #30fa95;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
@@ -119,7 +119,7 @@ main .sobre-nosotros{
 
 .contenido-textos p{
     padding: 0px 0px 30px 15px;
-    font-weight: 300;
+    font-weight: 400;
     text-align: justify;
 }
 
@@ -158,7 +158,7 @@ main .sobre-nosotros{
     height: 100%;
     top: 0;
     transform: scale(0);
-    background: hsla(273,91%,27%, 0.7);
+    background: rgba(15, 252, 193, 0.7);
     transition: transform .5s;
     display: flex;
     justify-content: center;
@@ -243,7 +243,7 @@ main .sobre-nosotros{
 }
 
 .servicio-ind p{
-    font-weight: 300;
+    font-weight: 400;
     text-align: justify;
 }
 
